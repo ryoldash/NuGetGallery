@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>NuGet.VerifyNuGetPackage</id>
+    <id>Jver.NuGet.VerifyNuGetPackage</id>
     <version>$version$</version>
     <description>A command line tool to verify that a Microsoft NuGet package has the appropriate metadata.</description>
     <authors>Microsoft</authors>
